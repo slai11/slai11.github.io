@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Prologue
 description: Why I am even doing this
 ---
