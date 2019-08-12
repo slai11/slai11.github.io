@@ -4,6 +4,7 @@ title: Prologue
 description: Why I am even doing this
 ---
 # Prologue
+Could not have done it without this [fantastic guide](https://github.com/kbroman/simple_site) you have my eternal thanks
 
 ### New Beginnings
 
@@ -13,8 +14,8 @@ Said roller coaster journey involved slogging 4 years through a degree(industria
 
 #### what I do at work
 
-10% data science experiments
-90% coding + writing design docs + performing code review
+* 10% data science experiments
+* 90% coding + writing design docs + performing code review
 
 #### my transition: (tldr; someone left, i had to take over)
 A senior engineer who built up an effective game-changing feature (a query DSL not unlike elasticsearch for our geospatial platform) left and I volunteered to take over the development of that feature.
